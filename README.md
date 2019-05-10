@@ -1,2 +1,3 @@
 # hello-world
-First repository test
+Hello, there! 
+Are we all paying attention?
